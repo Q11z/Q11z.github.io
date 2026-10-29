@@ -1,4 +1,3 @@
-
 ---
 name: Bigfoot Sightings in the United States
 tools: [Python, Altair, Vega-Lite]
